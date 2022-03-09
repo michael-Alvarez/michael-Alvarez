@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michael-Alvarez
-- 👀 I’m interested in leaning programming and work opportunities 
+- 👀 I’m interested in leaning programming and getting work opportunities 
 - 🌱 I’m currently learning Pseudeocode and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything maybe...
 - 📫 How to reach me ...
 - 🧠 I've already learned HTML and CSS
 
