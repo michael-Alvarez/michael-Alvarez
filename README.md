@@ -2,7 +2,7 @@
 - 👀 I’m interested in leaning programming and getting work opportunities 
 - 🌱 I’m currently learning SQL, C#, Java, and more C++
 - 💞️ I’m looking to collaborate on anything maybe...
-- 📫 How to reach me ...
+- 📫 How to reach me Discord: PARAGON#2027
 - 🧠 I've learned C++, JavaScript, Pseudeocode, HTML, and CSS
 
 <!---
