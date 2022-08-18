@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @michael-Alvarez
 - 👀 I’m interested in leaning programming and getting work opportunities 
-- 🌱 I’m currently learning Pseudeocode, JavaScript and GO
+- 🌱 I’m currently learning SQL, C#, Java, and more C++
 - 💞️ I’m looking to collaborate on anything maybe...
 - 📫 How to reach me ...
-- 🧠 I've already learned HTML and CSS
+- 🧠 I've learned C++, JavaSript, Pseudeocode, HTML, and CSS
 
 <!---
 michael-Alvarez/michael-Alvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
